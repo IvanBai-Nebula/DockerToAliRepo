@@ -1,5 +1,4 @@
-redis
-nginx
-mysql
-python:3.12
-mysql:8.0.40
+ubuntu/redis
+ubuntu/nginx
+ubuntu/python
+ubuntu/mysql
